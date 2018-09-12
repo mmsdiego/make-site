@@ -1,0 +1,19 @@
+{
+  "name": "make-site",
+  "version": "0.0.1",
+  "description": "Creating a Simple File Structure for Websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmsdiego/make-site.git"
+  },
+  "author": "Diego Martins <mmsdiego@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmsdiego/make-site/issues"
+  },
+  "homepage": "https://github.com/mmsdiego/make-site#readme"
+}
