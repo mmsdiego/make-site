@@ -1,2 +1,2 @@
 # make-site
-Creating a simple struture of files to sites
+Creating a Simple File Structure for Websites
