@@ -24,7 +24,7 @@ project name/
 # Installation
 
 ```
-npm i -g make-site
+npm install -g make-site
 
 ```
 
@@ -32,5 +32,11 @@ npm i -g make-site
 
 ```
 make-site -n <project-name>
+
+cd <project-name>
+
+npm install
+
+npm start
 
 ```
