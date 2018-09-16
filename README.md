@@ -20,3 +20,17 @@ project name/
 └── package.json
 
 ```
+
+# Installation
+
+```
+npm i -g make-site
+
+```
+
+# Usage
+
+```
+make-site -n <project-name>
+
+```

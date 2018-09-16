@@ -1,6 +1,6 @@
 {
   "name": "make-site",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Creating a Simple File Structure for Websites",
   "main": "./lib/index.js",
   "bin": {
