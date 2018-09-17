@@ -9,8 +9,8 @@ project name/
 │   │   ├── _reset.scss
 │   │   └── _variables.scss
 │   └── layouts/
-│   │   ├── bootstrap-4-grid.css
-│   │   └── bootstrap-3-grid.css
+│   │   ├── bootstrap-4-grid.scss
+│   │   └── bootstrap-3-grid.scss
 │   └── modules/
 │   └── pages/
 │   └── style.scss
