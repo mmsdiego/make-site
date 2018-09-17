@@ -1,6 +1,6 @@
 {
   "name": "make-site",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Creating a Simple File Structure for Websites",
   "main": "./lib/index.js",
   "bin": {
@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/mmsdiego/make-site.git"
   },
+  "keywords": ["make", "site", "make-site", "make site", "generator", "site generator"],
   "author": "Diego Martins <mmsdiego@gmail.com>",
   "license": "MIT",
   "bugs": {
